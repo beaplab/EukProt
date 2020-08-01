@@ -1,3 +1,57 @@
+# any files/subdirectories in an "old" directory
+old/
+
+###
+# Section for Emacs (from Github Emacs.gitignore)
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# Org-mode
+.org-id-locations
+*_archive
+
+# flymake-mode
+*_flymake.*
+
+# eshell files
+/eshell/history
+/eshell/lastdir
+
+# elpa packages
+/elpa/
+
+# reftex files
+*.rel
+
+# AUCTeX auto folder
+/auto/
+
+# cask packages
+.cask/
+dist/
+
+# Flycheck
+flycheck_*.el
+
+# server auth directory
+/server/
+
+# projectiles files
+.projectile
+
+# directory configuration
+.dir-locals.el
+###
+
+###
+# Section for Perl (from Github Perl.gitignore)
 !Build/
 .last_cover_stats
 /META.yml
@@ -33,3 +87,4 @@ inc/
 /MANIFEST.bak
 /pm_to_blib
 /*.zip
+###
