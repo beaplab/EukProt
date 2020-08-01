@@ -1,0 +1,743 @@
+EDPD_ID	Data_Source_Type	Lineage_to_Display
+EDPD00005	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea
+EDPD00006	genome	Eukaryota;Amorphea;Amoebozoa;Discosea
+EDPD00007	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea
+EDPD00008	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea
+EDPD00009	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea
+EDPD00010	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea
+EDPD00011	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea
+EDPD00012	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea
+EDPD00013	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea
+EDPD00014	genome	Eukaryota;Amorphea;Amoebozoa;Evosea
+EDPD00015	genome	Eukaryota;Amorphea;Amoebozoa;Evosea
+EDPD00016	genome	Eukaryota;Amorphea;Amoebozoa;Evosea
+EDPD00017	genome	Eukaryota;Amorphea;Amoebozoa;Evosea
+EDPD00727	genome	Eukaryota;Amorphea;Amoebozoa;Evosea
+EDPD00019	transcriptome	Eukaryota;Amorphea;Amoebozoa;Evosea
+EDPD00020	transcriptome	Eukaryota;Amorphea;Amoebozoa;Evosea
+EDPD00021	genome	Eukaryota;Amorphea;Amoebozoa;Evosea
+EDPD00022	genome	Eukaryota;Amorphea;Amoebozoa;Evosea
+EDPD00023	genome	Eukaryota;Amorphea;Amoebozoa;Evosea
+EDPD00024	genome	Eukaryota;Amorphea;Amoebozoa;Evosea
+EDPD00025	genome	Eukaryota;Amorphea;Amoebozoa;Evosea
+EDPD00026	transcriptome	Eukaryota;Amorphea;Amoebozoa;Evosea
+EDPD00027	transcriptome	Eukaryota;Amorphea;Amoebozoa;Evosea
+EDPD00028	transcriptome	Eukaryota;Amorphea;Amoebozoa;Tubulinea
+EDPD00029	transcriptome	Eukaryota;Amorphea;Amoebozoa;Tubulinea
+EDPD00728	transcriptome	Eukaryota;Amorphea;Amoebozoa;Tubulinea
+EDPD00030	transcriptome	Eukaryota;Amorphea;Obazoa;Apusomonadida
+EDPD00031	genome	Eukaryota;Amorphea;Obazoa;Apusomonadida
+EDPD00032	EST	Eukaryota;Amorphea;Obazoa;Breviatea
+EDPD00033	transcriptome	Eukaryota;Amorphea;Obazoa;Breviatea
+EDPD00034	transcriptome	Eukaryota;Amorphea;Obazoa;Breviatea
+EDPD00035	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Choanoflagellatea
+EDPD00036	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Choanoflagellatea
+EDPD00037	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Choanoflagellatea
+EDPD00038	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Choanoflagellatea
+EDPD00729	single-cell genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Choanoflagellatea
+EDPD00039	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Choanoflagellatea
+EDPD00040	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Choanoflagellatea
+EDPD00041	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Choanoflagellatea
+EDPD00042	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Choanoflagellatea
+EDPD00043	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Choanoflagellatea
+EDPD00044	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Choanoflagellatea
+EDPD00730	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Choanoflagellatea
+EDPD00045	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Choanoflagellatea
+EDPD00046	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Choanoflagellatea
+EDPD00047	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Choanoflagellatea
+EDPD00048	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Choanoflagellatea
+EDPD00049	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Choanoflagellatea
+EDPD00050	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Choanoflagellatea
+EDPD00051	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Choanoflagellatea
+EDPD00052	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Choanoflagellatea
+EDPD00053	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Choanoflagellatea
+EDPD00054	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Choanoflagellatea
+EDPD00055	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Choanoflagellatea
+EDPD00056	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Choanoflagellatea
+EDPD00057	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00058	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00059	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00060	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00061	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00062	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00063	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00064	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00065	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00066	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00067	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00068	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00069	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00070	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00071	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00072	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00073	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00074	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00075	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00076	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00077	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00078	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00079	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00080	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00081	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00082	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00083	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00084	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00085	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00086	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00087	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00088	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00089	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00090	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00091	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00092	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00093	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00094	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00095	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00096	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00097	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00098	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00099	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00100	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00101	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00102	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00103	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00104	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00105	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00106	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00107	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00108	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00109	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00110	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00111	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00112	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00113	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00114	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00115	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00116	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00117	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00118	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00119	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00731	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Choanozoa;Metazoa
+EDPD00120	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;filozoa;Filasterea
+EDPD00121	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Ichthyosporea
+EDPD00122	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Ichthyosporea
+EDPD00123	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Ichthyosporea
+EDPD00124	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Ichthyosporea
+EDPD00125	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Ichthyosporea
+EDPD00126	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Ichthyosporea
+EDPD00127	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Pluriformea
+EDPD00128	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Pluriformea
+EDPD00158	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;Aphelidea
+EDPD00129	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;core Fungi
+EDPD00130	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;core Fungi
+EDPD00131	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;core Fungi
+EDPD00132	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;core Fungi
+EDPD00133	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;core Fungi
+EDPD00134	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;core Fungi
+EDPD00135	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;core Fungi
+EDPD00136	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;core Fungi
+EDPD00137	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;core Fungi
+EDPD00138	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;core Fungi
+EDPD00139	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;core Fungi
+EDPD00140	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;core Fungi
+EDPD00141	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;core Fungi
+EDPD00142	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;core Fungi
+EDPD00143	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;core Fungi
+EDPD00144	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;core Fungi
+EDPD00145	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;core Fungi
+EDPD00146	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;core Fungi
+EDPD00147	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;core Fungi
+EDPD00148	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;core Fungi
+EDPD00149	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;core Fungi
+EDPD00150	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;core Fungi
+EDPD00151	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;core Fungi
+EDPD00152	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;core Fungi
+EDPD00153	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;core Fungi
+EDPD00154	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;core Fungi
+EDPD00155	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;cryptomycota
+EDPD00156	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;cryptomycota
+EDPD00157	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi;cryptomycota
+EDPD00732	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Rotosphaerida
+EDPD00733	single-cell transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Rotosphaerida
+EDPD00734	single-cell transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Rotosphaerida
+EDPD00159	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Rotosphaerida
+EDPD00160	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Rotosphaerida
+EDPD00001	transcriptome	Eukaryota;CRuMs;CR clade;Collodictyonidae
+EDPD00002	transcriptome	Eukaryota;CRuMs;CR clade;Collodictyonidae
+EDPD00003	transcriptome	Eukaryota;CRuMs;Mantamonas
+EDPD00004	transcriptome	Eukaryota;CRuMs;CR clade;Rigifilida
+EDPD00164	transcriptome	Eukaryota;Diaphoretickes;Ancoracysta
+EDPD00329	single-cell genome	Eukaryota;Diaphoretickes;Picozoa
+EDPD00191	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00192	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00193	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00194	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00195	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00196	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00197	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00198	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00199	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00200	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00201	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00202	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00203	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00204	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00205	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00206	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00207	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00208	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00209	EST	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00210	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00211	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00212	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00213	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00738	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00215	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00216	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00217	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00218	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00739	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00222	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00223	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00224	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00740	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00227	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00228	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00229	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00230	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00231	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00232	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00233	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00234	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00235	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00236	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00237	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00238	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00239	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00240	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00241	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00242	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta
+EDPD00243	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00244	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00245	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00246	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00247	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00248	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00249	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00250	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00251	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00252	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00253	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00254	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00255	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00256	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00257	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00258	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00259	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00260	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00261	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00262	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00263	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00264	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00265	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00266	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00267	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00268	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00269	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00270	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00271	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00272	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta
+EDPD00741	genome	Eukaryota;Diaphoretickes;Archaeplastida;Glaucophyta
+EDPD00274	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Glaucophyta
+EDPD00275	EST	Eukaryota;Diaphoretickes;Archaeplastida;Glaucophyta
+EDPD00276	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Glaucophyta
+EDPD00735	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodelphis
+EDPD00736	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodelphis
+EDPD00165	genome	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodophyta
+EDPD00166	genome	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodophyta
+EDPD00167	genome	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodophyta
+EDPD00168	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodophyta
+EDPD00169	genome	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodophyta
+EDPD00170	genome	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodophyta
+EDPD00171	genome	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodophyta
+EDPD00172	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodophyta
+EDPD00173	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodophyta
+EDPD00174	EST	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodophyta
+EDPD00175	EST	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodophyta
+EDPD00176	genome	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodophyta
+EDPD00177	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodophyta
+EDPD00737	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodophyta
+EDPD00178	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodophyta
+EDPD00179	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodophyta
+EDPD00180	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodophyta
+EDPD00181	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodophyta
+EDPD00182	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodophyta
+EDPD00183	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodophyta
+EDPD00184	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodophyta
+EDPD00185	genome	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodophyta
+EDPD00186	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodophyta
+EDPD00187	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodophyta
+EDPD00188	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodophyta
+EDPD00189	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodophyta
+EDPD00190	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;RR clade;Rhodophyta
+EDPD00277	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales
+EDPD00279	genome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales
+EDPD00280	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales
+EDPD00281	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales
+EDPD00282	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales
+EDPD00283	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales
+EDPD00284	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales
+EDPD00285	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales
+EDPD00286	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales
+EDPD00287	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales
+EDPD00288	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales
+EDPD00289	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales
+EDPD00290	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales
+EDPD00291	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales
+EDPD00292	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales
+EDPD00293	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales
+EDPD00294	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Goniomonas
+EDPD00295	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Goniomonas
+EDPD00296	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Kathablepharidacea
+EDPD00297	transcriptome	Eukaryota;Diaphoretickes;Cryptista;Palpitomonas
+EDPD00298	transcriptome	Eukaryota;Diaphoretickes;Haptista;Centroplasthelida
+EDPD00299	transcriptome	Eukaryota;Diaphoretickes;Haptista;Centroplasthelida
+EDPD00300	transcriptome	Eukaryota;Diaphoretickes;Haptista;Centroplasthelida
+EDPD00301	transcriptome	Eukaryota;Diaphoretickes;Haptista;Centroplasthelida
+EDPD00302	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Pavlovales
+EDPD00303	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Pavlovales
+EDPD00304	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Pavlovales
+EDPD00305	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Pavlovales
+EDPD00306	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Pavlovales
+EDPD00307	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Pavlovales
+EDPD00308	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae
+EDPD00309	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae
+EDPD00310	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae
+EDPD00311	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae
+EDPD00312	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae
+EDPD00313	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae
+EDPD00314	genome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae
+EDPD00315	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae
+EDPD00316	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae
+EDPD00317	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae
+EDPD00318	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae
+EDPD00319	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae
+EDPD00320	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae
+EDPD00321	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae
+EDPD00322	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae
+EDPD00323	genome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae
+EDPD00324	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae
+EDPD00325	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae
+EDPD00326	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae
+EDPD00327	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae
+EDPD00328	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae
+EDPD00656	transcriptome	Eukaryota;Diaphoretickes;TSAR;Telonemia
+EDPD00657	transcriptome	Eukaryota;Diaphoretickes;TSAR;Telonemia
+EDPD00658	transcriptome	Eukaryota;Diaphoretickes;TSAR;Telonemia
+EDPD00330	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00331	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00332	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00333	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00334	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00335	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00336	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00337	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00338	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00339	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00340	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00341	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00342	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00343	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00344	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00345	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00346	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00347	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00348	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00349	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00350	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00351	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00352	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00353	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00354	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00355	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00356	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00357	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00358	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00359	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00360	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00361	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00362	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Ciliophora
+EDPD00742	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;Colponemidae
+EDPD00743	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;Colponemidae
+EDPD00744	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;Colponemidae
+EDPD00363	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Apicomplexa
+EDPD00364	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Apicomplexa
+EDPD00365	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Apicomplexa
+EDPD00366	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Apicomplexa
+EDPD00367	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Apicomplexa
+EDPD00368	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Apicomplexa
+EDPD00369	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Apicomplexa
+EDPD00370	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Apicomplexa
+EDPD00371	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Apicomplexa
+EDPD00372	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Apicomplexa
+EDPD00373	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Apicomplexa
+EDPD00374	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Apicomplexa
+EDPD00375	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Apicomplexa
+EDPD00376	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Apicomplexa
+EDPD00377	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Apicomplexa
+EDPD00378	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Apicomplexa
+EDPD00379	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Apicomplexa
+EDPD00380	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Apicomplexa
+EDPD00381	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Apicomplexa
+EDPD00382	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Apicomplexa
+EDPD00383	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Apicomplexa
+EDPD00384	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Apicomplexa
+EDPD00385	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Apicomplexa
+EDPD00386	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Colpodellida
+EDPD00387	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Colpodellida
+EDPD00388	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Colpodellida
+EDPD00389	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Colpodellida
+EDPD00745	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Colpodellida
+EDPD00390	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;AC clade;Colpodellida
+EDPD00391	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00392	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00393	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00394	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00395	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00396	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00397	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00398	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00399	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00400	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00746	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00401	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00747	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00748	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00402	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00403	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00404	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00405	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00406	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00407	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00408	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00409	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00410	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00411	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00412	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00413	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00414	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00415	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00416	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00417	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00418	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00419	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00420	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00421	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00422	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00423	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00424	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00425	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00426	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00427	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00428	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00429	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00430	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00431	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00432	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00433	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00434	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00435	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00436	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00437	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00438	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00439	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00440	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00441	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00442	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00443	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00444	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00445	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00446	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00447	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00448	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00449	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00450	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00451	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00452	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Dinoflagellata
+EDPD00453	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Perkinsea
+EDPD00454	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Alveolata;CM clade;Myzozoa;DP clade;Perkinsea
+EDPD00456	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa
+EDPD00457	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa
+EDPD00458	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa
+EDPD00459	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa
+EDPD00460	EST	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa
+EDPD00461	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa
+EDPD00462	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa
+EDPD00463	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa
+EDPD00464	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa
+EDPD00465	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa
+EDPD00466	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa
+EDPD00467	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa
+EDPD00468	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa
+EDPD00469	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa
+EDPD00470	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa
+EDPD00471	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa
+EDPD00472	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa
+EDPD00473	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Endomyxa
+EDPD00474	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Endomyxa
+EDPD00475	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Endomyxa
+EDPD00476	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Endomyxa
+EDPD00477	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Endomyxa
+EDPD00478	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Endomyxa
+EDPD00479	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Endomyxa
+EDPD00455	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;eorhiza;Aquavolonida
+EDPD00480	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Foraminifera
+EDPD00481	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Foraminifera
+EDPD00482	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Foraminifera
+EDPD00483	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Foraminifera
+EDPD00484	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Foraminifera
+EDPD00485	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Foraminifera
+EDPD00486	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Foraminifera
+EDPD00487	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Foraminifera
+EDPD00488	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Foraminifera
+EDPD00489	EST	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Foraminifera
+EDPD00490	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Foraminifera
+EDPD00491	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Radiolaria
+EDPD00492	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Radiolaria
+EDPD00493	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Radiolaria
+EDPD00494	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Radiolaria
+EDPD00495	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Radiolaria
+EDPD00496	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Radiolaria
+EDPD00497	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Radiolaria
+EDPD00749	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Bigyra;Opalozoa
+EDPD00499	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Bigyra;Opalozoa
+EDPD00500	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Bigyra;Opalozoa
+EDPD00750	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Bigyra;Opalozoa
+EDPD00501	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Bigyra;Opalozoa
+EDPD00502	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Bigyra;Opalozoa
+EDPD00503	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Bigyra;Opalozoa
+EDPD00504	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Bigyra;Opalozoa
+EDPD00505	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Bigyra;Sagenista
+EDPD00506	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Bigyra;Sagenista
+EDPD00507	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Bigyra;Sagenista
+EDPD00508	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Bigyra;Sagenista
+EDPD00509	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Bigyra;Sagenista
+EDPD00510	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Bigyra;Sagenista
+EDPD00511	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Bigyra;Sagenista
+EDPD00512	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Bigyra;Sagenista
+EDPD00513	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Bigyra;Sagenista
+EDPD00514	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Bigyra;Sagenista
+EDPD00515	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Bigyra;Sagenista
+EDPD00516	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Bigyra;Sagenista
+EDPD00517	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Bigyra;Sagenista
+EDPD00518	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00519	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00520	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00521	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00522	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00523	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00524	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00525	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00526	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00527	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00528	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00751	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00529	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00530	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00531	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00532	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00533	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00534	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00535	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00536	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00537	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00538	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00539	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00540	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00541	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00542	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00543	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00544	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00545	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00546	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00547	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00548	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00549	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00550	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00551	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00552	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00553	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00554	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00555	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00556	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00557	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00558	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00559	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00560	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00561	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00562	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00563	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00564	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00565	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00566	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00567	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00568	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00569	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00570	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00571	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00572	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00573	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00574	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00575	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00576	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00577	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00578	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00579	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00580	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00581	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00582	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00583	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00584	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00585	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00586	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00587	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00588	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00589	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00590	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00591	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00592	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00593	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00594	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00595	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00596	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00597	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00598	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00599	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00600	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00601	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00602	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00603	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00604	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00605	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00606	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00607	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00608	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00609	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00752	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00610	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00611	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00612	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00613	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00614	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00615	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00616	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00617	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00618	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00619	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00620	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00621	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00622	EST	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00623	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00624	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00625	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00626	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00627	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00628	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00629	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00630	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00631	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00632	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00633	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00634	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00635	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00636	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00637	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00638	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00639	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00640	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Ochrophyta
+EDPD00641	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Peronosporomycetes
+EDPD00642	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Peronosporomycetes
+EDPD00643	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Peronosporomycetes
+EDPD00644	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Peronosporomycetes
+EDPD00645	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Peronosporomycetes
+EDPD00646	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Peronosporomycetes
+EDPD00647	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Peronosporomycetes
+EDPD00648	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Peronosporomycetes
+EDPD00649	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Peronosporomycetes
+EDPD00650	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Peronosporomycetes
+EDPD00651	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Peronosporomycetes
+EDPD00652	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Peronosporomycetes
+EDPD00653	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Peronosporomycetes
+EDPD00654	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Peronosporomycetes
+EDPD00655	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;BG clade;Gyrista;Peronosporomycetes
+EDPD00753	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Stramenopiles;Platysulcus
+EDPD00659	genome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Diplonemea
+EDPD00754	transcriptome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Diplonemea
+EDPD00755	transcriptome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Diplonemea
+EDPD00660	single-cell genome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Diplonemea
+EDPD00661	single-cell genome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Diplonemea
+EDPD00662	single-cell genome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Diplonemea
+EDPD00663	single-cell genome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Diplonemea
+EDPD00664	single-cell genome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Diplonemea
+EDPD00665	single-cell genome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Diplonemea
+EDPD00666	single-cell genome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Diplonemea
+EDPD00756	transcriptome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Diplonemea
+EDPD00667	genome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Euglenida
+EDPD00668	transcriptome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Euglenida
+EDPD00669	transcriptome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Euglenida
+EDPD00670	transcriptome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Euglenida
+EDPD00757	single-cell genome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Kinetoplastea;D1 lineage
+EDPD00671	genome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Kinetoplastea;Metakinetoplastina
+EDPD00672	transcriptome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Kinetoplastea;Metakinetoplastina
+EDPD00758	transcriptome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Kinetoplastea;Metakinetoplastina
+EDPD00673	genome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Kinetoplastea;Metakinetoplastina
+EDPD00674	genome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Kinetoplastea;Metakinetoplastina
+EDPD00675	genome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Kinetoplastea;Metakinetoplastina
+EDPD00676	genome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Kinetoplastea;Metakinetoplastina
+EDPD00677	genome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Kinetoplastea;Metakinetoplastina
+EDPD00678	genome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Kinetoplastea;Metakinetoplastina
+EDPD00679	genome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Kinetoplastea;Metakinetoplastina
+EDPD00680	genome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Kinetoplastea;Metakinetoplastina
+EDPD00681	genome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Kinetoplastea;Metakinetoplastina
+EDPD00682	genome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Kinetoplastea;Metakinetoplastina
+EDPD00683	genome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Kinetoplastea;Metakinetoplastina
+EDPD00684	genome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Kinetoplastea;Metakinetoplastina
+EDPD00759	transcriptome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Kinetoplastea;Prokinetoplastina
+EDPD00760	transcriptome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Kinetoplastea;Prokinetoplastina
+EDPD00685	genome	Eukaryota;Discoba;EHT clade;EH clade;Euglenozoa;Kinetoplastea;Prokinetoplastina
+EDPD00761	transcriptome	Eukaryota;Discoba;EHT clade;EH clade;Heterolobosea
+EDPD00686	genome	Eukaryota;Discoba;EHT clade;EH clade;Heterolobosea
+EDPD00687	transcriptome	Eukaryota;Discoba;EHT clade;EH clade;Heterolobosea
+EDPD00688	EST	Eukaryota;Discoba;EHT clade;EH clade;Heterolobosea
+EDPD00689	EST	Eukaryota;Discoba;EHT clade;EH clade;Heterolobosea
+EDPD00762	genome	Eukaryota;Discoba;Jakobida
+EDPD00690	EST	Eukaryota;Discoba;Jakobida
+EDPD00691	EST	Eukaryota;Discoba;Jakobida
+EDPD00692	EST	Eukaryota;Discoba;Jakobida
+EDPD00693	EST	Eukaryota;Discoba;Jakobida
+EDPD00694	EST	Eukaryota;Discoba;Jakobida
+EDPD00695	transcriptome	Eukaryota;Discoba;EHT clade;Tsukubamonadida
+EDPD00701	genome	Eukaryota;Metamonada;FP clade;BF clade;Fornicata
+EDPD00763	genome	Eukaryota;Metamonada;FP clade;BF clade;Fornicata
+EDPD00702	genome	Eukaryota;Metamonada;FP clade;BF clade;Fornicata
+EDPD00703	transcriptome	Eukaryota;Metamonada;FP clade;BF clade;Fornicata
+EDPD00764	transcriptome	Eukaryota;Metamonada;FP clade;BF clade;Fornicata
+EDPD00765	transcriptome	Eukaryota;Metamonada;FP clade;BF clade;Fornicata
+EDPD00766	transcriptome	Eukaryota;Metamonada;FP clade;BF clade;Fornicata
+EDPD00767	transcriptome	Eukaryota;Metamonada;FP clade;BF clade;Fornicata
+EDPD00768	transcriptome	Eukaryota;Metamonada;FP clade;BF clade;Fornicata
+EDPD00769	transcriptome	Eukaryota;Metamonada;FP clade;BF clade;Fornicata
+EDPD00704	genome	Eukaryota;Metamonada;FP clade;BF clade;Fornicata
+EDPD00705	genome	Eukaryota;Metamonada;FP clade;Parabasalia
+EDPD00706	genome	Eukaryota;Metamonada;FP clade;Parabasalia
+EDPD00770	genome	Eukaryota;Metamonada;Preaxostyla
+EDPD00708	transcriptome	Eukaryota;Metamonada;Preaxostyla
+EDPD00771	transcriptome	Eukaryota;Metamonada;Preaxostyla
+EDPD00698	transcriptome	Eukaryota;Malawimonadidae
+EDPD00699	EST	Eukaryota;Malawimonadidae
+EDPD00700	EST	Eukaryota;Malawimonadidae
+EDPD00161	transcriptome	Eukaryota;Ancyromonadida
+EDPD00162	transcriptome	Eukaryota;Ancyromonadida
+EDPD00163	transcriptome	Eukaryota;Ancyromonadida
+EDPD00696	single-cell transcriptome	Eukaryota;Hemimastigophora
+EDPD00697	single-cell transcriptome	Eukaryota;Hemimastigophora
