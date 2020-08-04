@@ -1,6 +1,9 @@
 # any files/subdirectories in an "old" directory
 old/
 
+# the .directory file created by Linux file manager
+.directory
+
 ###
 # Section for Emacs (from Github Emacs.gitignore)
 # -*- mode: gitignore; -*-
