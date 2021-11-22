@@ -10,13 +10,15 @@ use lib dirname (&Cwd::abs_path(__FILE__));
 
 # modules in this distribution
 use GetOptions;
-use Constants qw ($DIRECTORY_DELIMITER $FASTA_EXTENSION %FASTA_FILE_DATA_TYPES $TAB_DELIMITED_TEXT_EXTENSION);
+use Constants qw ($DIRECTORY_DELIMITER $FASTA_EXTENSION %FASTA_FILE_DATA_TYPES $TAB_DELIMITED_TEXT_EXTENSION
+                  $ALLOWED_NUCLEIC_ACID_CODES $ALLOWED_AMINO_ACID_CODES %FASTA_FILE_ALLOWED_CODES);
 
 # names of command line options
 my $HELP_OPTION = 'help';
 my $INPUT_OPTION = 'input';
 my $OUTPUT_OPTION = 'output';
 my $TYPE_OPTION = 'type';
+my $CLEAN_OPTION = 'clean';
 my $MAPPING_OPTION = 'mapping';
 my $EXTENSION_OPTION = 'extension';
 my $FORCE_OPTION = 'force';
@@ -26,6 +28,7 @@ my %OPTION_TYPES = ($HELP_OPTION => '',
 		    $INPUT_OPTION => '=s',
 		    $OUTPUT_OPTION => '=s',
 		    $TYPE_OPTION => '=s',
+		    $CLEAN_OPTION => '!',
 		    $MAPPING_OPTION => '=s',
 		    $EXTENSION_OPTION => '=s',
 		    $FORCE_OPTION => '!');
@@ -121,6 +124,8 @@ sub main
 		print MAPPING join("\t", ("EukProt_Record_ID", "Previous_Record_ID")) . "\n";
 	    }
 
+	    my ($characters_cleaned, $sequences_cleaned) = (0, 0);
+	    
 	    # read through the input FASTA file, prepending the new EukProt identifier to each FASTA header
 	    while (<INPUT>)
 	    {
@@ -146,8 +151,24 @@ sub main
 		}
 		else
 		{
+		    if ($args{$CLEAN_OPTION})
+		    {
+			my $cleaned_count = s/[^$FASTA_FILE_ALLOWED_CODES{$args{$TYPE_OPTION}}\n]//ig;
+
+			if ($cleaned_count > 0)
+			{
+			    $characters_cleaned += $cleaned_count;
+			    $sequences_cleaned++;
+			}
+		    }
+		    
 		    print OUTPUT $_;
 		}
+	    }
+
+	    if ($args{$CLEAN_OPTION})
+	    {
+		print STDOUT "$characters_cleaned illegal character(s) removed from $sequences_cleaned sequence(s)\n";
 	    }
 	    
 	    close INPUT || die "ERROR: could not close file '$input_fasta_path' after read";
@@ -171,11 +192,10 @@ sub help
     }
     
     my $HELP = <<HELP;
-Syntax: $0 -$INPUT_OPTION <dir> -$OUTPUT_OPTION <dir> -$TYPE_OPTION <type> [-$MAPPING_OPTION <dir>] [-$EXTENSION_OPTION <ext>] [-$FORCE_OPTION]
+Syntax: $0 -$INPUT_OPTION <dir> -$OUTPUT_OPTION <dir> -$TYPE_OPTION <type> [-$CLEAN_OPTION] [-$MAPPING_OPTION <dir>] [-$EXTENSION_OPTION <ext>] [-$FORCE_OPTION]
 
-Modify the headers of a directory of FASTA files, by adding a EukProt
-record ID as the first item after the initial ">", followed by a
-space.
+Modify the headers of a directory of FASTA files, by adding a EukProt record ID as the
+first item after the initial ">", followed by a space.
 
 The record identifier is formatted as follows:
 
@@ -186,11 +206,19 @@ the first part of the identifier will be taken directly from the file name.
 
 Allowed types (and their one-letter abbreviations) are:
 $TYPES_AND_ABBREVIATIONS    
+If '-$CLEAN_OPTION' is supplied, all characters not in the following list will be removed from
+nucleic acid sequences:
+$ALLOWED_NUCLEIC_ACID_CODES    
+And characters not in the the following list will be removed from protein sequences:    
+$ALLOWED_AMINO_ACID_CODES
+These lists are from: https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=BlastHelp
+    
     -$HELP_OPTION : print this message
     -$INPUT_OPTION : input directory of FASTA files
     -$OUTPUT_OPTION : output directory of FASTA files
     -$TYPE_OPTION : type of data contained in the FASTA files (only one type is allowed per
             directory)
+    -$CLEAN_OPTION : remove illegal amino acid codes from sequences
     -$MAPPING_OPTION : optional output directory for tab-delimited text files (one per input
                file) containing mapping of the identifiers from each input FASTA header
                (considered as all text up to the first space character, if any) to their

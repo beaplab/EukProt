@@ -12,6 +12,8 @@ Description (bioRxiv) DOI: [10.1101/2020.06.30.180687](https://doi.org/10.1101/2
 
 ## Perl scripts
 
+Note: these scripts depend on the Perl modules (filenames ending in .pm), which should be in the same directory as the script files.
+
 - **add_EukProt_IDs_to_FASTAs.pl** : modify the headers of a directory of FASTA files, by adding a EukProt record ID as the first item after the initial ">", followed by a space. The record identifier is formatted as follows: [EukProt ID]\_[Genus_species]\_[Data set type abbreviation][Counter, starting with 000001]
 - **taxonomy_to_tree_iTOL.pl** : create a tree for input to iTOL based on the taxonomic relationships among species, and create an iTOL input data file representing the counts of each type of data set (Genome, Single-cell genome, Transcriptome, EST, Single-cell transcriptome) for each leaf of the tree.
 
