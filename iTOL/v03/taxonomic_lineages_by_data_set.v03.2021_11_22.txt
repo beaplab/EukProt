@@ -1,0 +1,994 @@
+EukProt_ID	Data_Source_Type	Lineage_to_Display	Genus_UniEuk	Epithet_UniEuk
+EP00005	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea;Centramoebia	Dracoamoeba	jomungandri
+EP00006	genome	Eukaryota;Amorphea;Amoebozoa;Discosea;Centramoebia	Acanthamoeba	castellanii
+EP01087	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea;Centramoebia	Luapelamoeba	hula
+EP01088	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea;Centramoebia	Endostelium	zonatum
+EP01089	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea;Centramoebia	Gocevia	fonbrunei
+EP01090	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea;Centramoebia	Pellita	catalonica
+EP01091	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea;Centramoebia	Cochliopodium	minus
+EP01092	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea;Centramoebia	Planopodium	desertum
+EP01093	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea;Centramoebia	Parvamoeba	rugata
+EP00007	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea;Flabellinia	Cunea	N/A
+EP00008	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea;Flabellinia	Paramoeba	atlantica
+EP00009	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea;Flabellinia	Paramoeba	aestuarina
+EP00010	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea;Flabellinia	Vexillifera	abyssalis
+EP00011	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea;Flabellinia	N/A	N/A
+EP00012	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea;Flabellinia	Vannella	robusta
+EP00013	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea;Flabellinia	Stygamoeba	regulata
+EP01085	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea;Flabellinia	Mycamoeba	gemmipara
+EP01094	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea;Flabellinia	Clydonella	N/A
+EP01095	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea;Flabellinia	Lingulamoeba	N/A
+EP01096	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea;Flabellinia	Ripella	N/A
+EP01097	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea;Flabellinia	Dermamoeba	algensis
+EP01098	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea;Flabellinia	Paradermamoeba	levis
+EP01099	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea;Flabellinia	Mayorella	cantabrigiensis
+EP01100	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea;Flabellinia	Stratorugosa	tubuloviscum
+EP01101	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea;Flabellinia	Sappina	pedata
+EP01102	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea;Flabellinia	Stenamoeba	stenopodia
+EP01103	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea;Flabellinia	Thecamoeba	quadrilineata
+EP01104	transcriptome	Eukaryota;Amorphea;Amoebozoa;Discosea;Flabellinia	Vermistella	antarctica
+EP00014	genome	Eukaryota;Amorphea;Amoebozoa;Evosea;Archamoebea	Entamoeba	dispar
+EP00015	genome	Eukaryota;Amorphea;Amoebozoa;Evosea;Archamoebea	Entamoeba	histolytica
+EP00016	genome	Eukaryota;Amorphea;Amoebozoa;Evosea;Archamoebea	Entamoeba	nuttalli
+EP00017	genome	Eukaryota;Amorphea;Amoebozoa;Evosea;Archamoebea	Entamoeba	invadens
+EP00727	genome	Eukaryota;Amorphea;Amoebozoa;Evosea;Archamoebea	"Mastigamoeba"	balamuthi
+EP01105	transcriptome	Eukaryota;Amorphea;Amoebozoa;Evosea;Archamoebea	Mastigella	eilhardi
+EP01106	transcriptome	Eukaryota;Amorphea;Amoebozoa;Evosea;Archamoebea	Pelomyxa	N/A
+EP01107	transcriptome	Eukaryota;Amorphea;Amoebozoa;Evosea;Archamoebea	Rhizomastix	libera
+EP00019	transcriptome	Eukaryota;Amorphea;Amoebozoa;Evosea;Cutosea	Armaparvus	languidus
+EP00020	transcriptome	Eukaryota;Amorphea;Amoebozoa;Evosea;Cutosea	Sapocribrum	chincoteaguense
+EP01108	transcriptome	Eukaryota;Amorphea;Amoebozoa;Evosea;Cutosea	Squamamoeba	japonica
+EP00021	genome	Eukaryota;Amorphea;Amoebozoa;Evosea;Eumycetozoa	Heterostelium	album
+EP00022	genome	Eukaryota;Amorphea;Amoebozoa;Evosea;Eumycetozoa	Cavenderia	fasciculata
+EP00023	genome	Eukaryota;Amorphea;Amoebozoa;Evosea;Eumycetozoa	Dictyostelium	discoideum
+EP00024	genome	Eukaryota;Amorphea;Amoebozoa;Evosea;Eumycetozoa	Dictyostelium	purpureum
+EP00025	genome	Eukaryota;Amorphea;Amoebozoa;Evosea;Eumycetozoa	Tieghemostelium	lacteum
+EP00026	transcriptome	Eukaryota;Amorphea;Amoebozoa;Evosea;Eumycetozoa	Physarum	polycephalum
+EP01109	genome	Eukaryota;Amorphea;Amoebozoa;Evosea;Eumycetozoa	Acytostelium	subglobosum
+EP01110	transcriptome	Eukaryota;Amorphea;Amoebozoa;Evosea;Eumycetozoa	Echinostelium	bisporum
+EP01111	transcriptome	Eukaryota;Amorphea;Amoebozoa;Evosea;Eumycetozoa	Echinosteliopsis 	oligospora
+EP01112	transcriptome	Eukaryota;Amorphea;Amoebozoa;Evosea;Eumycetozoa	Ceratiomyxa	fruticulosa
+EP01113	transcriptome	Eukaryota;Amorphea;Amoebozoa;Evosea;Eumycetozoa	Clastostelium	recurvatum
+EP01132	genome	Eukaryota;Amorphea;Amoebozoa;Evosea;Eumycetozoa	Coremiostelium	polycephalum
+EP01133	genome	Eukaryota;Amorphea;Amoebozoa;Evosea;Eumycetozoa	Synstelium	polycarpum
+EP00027	transcriptome	Eukaryota;Amorphea;Amoebozoa;Evosea;Variosea	Filamoeba	N/A
+EP01114	transcriptome	Eukaryota;Amorphea;Amoebozoa;Evosea;Variosea	Cavostelium	apophysatum
+EP01115	transcriptome	Eukaryota;Amorphea;Amoebozoa;Evosea;Variosea	Flamella 	aegyptia
+EP01116	transcriptome	Eukaryota;Amorphea;Amoebozoa;Evosea;Variosea	Phalansterium 	solitarium
+EP01117	transcriptome	Eukaryota;Amorphea;Amoebozoa;Evosea;Variosea	Protostelium	nocturnum
+EP01118	transcriptome	Eukaryota;Amorphea;Amoebozoa;Evosea;Variosea	Nematostelium	gracile
+EP01119	transcriptome	Eukaryota;Amorphea;Amoebozoa;Evosea;Variosea	Soliformovum 	irregulare
+EP00028	transcriptome	Eukaryota;Amorphea;Amoebozoa;Tubulinea	Trichosphaerium	N/A
+EP00029	transcriptome	Eukaryota;Amorphea;Amoebozoa;Tubulinea	Vermamoeba	vermiformis
+EP01120	transcriptome	Eukaryota;Amorphea;Amoebozoa;Tubulinea	Amphizonella	N/A
+EP01121	transcriptome	Eukaryota;Amorphea;Amoebozoa;Tubulinea	Diplochlamys	N/A
+EP01122	transcriptome	Eukaryota;Amorphea;Amoebozoa;Tubulinea	Echinamoeba 	exundans
+EP01123	transcriptome	Eukaryota;Amorphea;Amoebozoa;Tubulinea	"Difflugia"	compressa
+EP01124	transcriptome	Eukaryota;Amorphea;Amoebozoa;Tubulinea	Arcella 	intermedia
+EP01125	transcriptome	Eukaryota;Amorphea;Amoebozoa;Tubulinea	Pyxidicula	operculata
+EP01126	transcriptome	Eukaryota;Amorphea;Amoebozoa;Tubulinea	Amoeba	proteus
+EP01127	transcriptome	Eukaryota;Amorphea;Amoebozoa;Tubulinea	Copromyxa	protea
+EP01128	transcriptome	Eukaryota;Amorphea;Amoebozoa;Tubulinea	Nolandella	N/A
+EP01129	transcriptome	Eukaryota;Amorphea;Amoebozoa;Tubulinea	Flabellula	baltica
+EP01130	transcriptome	Eukaryota;Amorphea;Amoebozoa;Tubulinea	Rhizamoeba	saxonica
+EP00030	transcriptome	Eukaryota;Amorphea;Obazoa;Apusomonadida	N/A	N/A
+EP00031	genome	Eukaryota;Amorphea;Obazoa;Apusomonadida	Thecamonas	trahens
+EP01139	EST	Eukaryota;Amorphea;Obazoa;Apusomonadida	Manchomonas	bermudensis
+EP00032	EST	Eukaryota;Amorphea;Obazoa;Breviatea	Breviata	anathema
+EP00033	transcriptome	Eukaryota;Amorphea;Obazoa;Breviatea	Pygsuia	biforma
+EP00034	transcriptome	Eukaryota;Amorphea;Obazoa;Breviatea	Subulatomonas	tetraspora
+EP01086	transcriptome	Eukaryota;Amorphea;Obazoa;Breviatea	Lenisia	limosa
+EP00035	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Choanoflagellatea	Acanthoeca	spectabilis
+EP00036	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Choanoflagellatea	N/A	N/A
+EP00037	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Choanoflagellatea	Helgoeca	nana
+EP00038	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Choanoflagellatea	Savillea	parva
+EP00039	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Choanoflagellatea	Didymoeca	costata
+EP00040	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Choanoflagellatea	Diaphanoeca	grandis
+EP00041	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Choanoflagellatea	"Stephanoeca"	diplocostata
+EP00042	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Choanoflagellatea	Codosiga	hollandica
+EP00043	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Choanoflagellatea	Microstomoeca	roanoka
+EP00044	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Choanoflagellatea	"Salpingoeca"	rosetta
+EP00045	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Choanoflagellatea	Choanoeca	perplexa
+EP00046	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Choanoflagellatea	Monosiga	brevicollis
+EP00047	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Choanoflagellatea	Mylnosiga	fluctuans
+EP00048	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Choanoflagellatea	"Salpingoeca"	helianthica
+EP00049	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Choanoflagellatea	"Salpingoeca"	infusionum
+EP00050	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Choanoflagellatea	"Salpingoeca"	kvevrii
+EP00051	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Choanoflagellatea	"Salpingoeca"	urceolata
+EP00052	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Choanoflagellatea	"Salpingoeca"	macrocollata
+EP00053	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Choanoflagellatea	"Salpingoeca"	punica
+EP00054	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Choanoflagellatea	"Salpingoeca"	dolichothecata
+EP00055	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Choanoflagellatea	Hartaetosiga	balthica
+EP00056	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Choanoflagellatea	Hartaetosiga	gracilis
+EP00729	single-cell genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Choanoflagellatea	Bicosta	minor
+EP00730	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Choanoflagellatea	Choanoeca	flexa
+EP00911	single-cell genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Choanoflagellatea	N/A	N/A
+EP00912	single-cell genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Choanoflagellatea	N/A	N/A
+EP01147	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Choanoflagellatea	Barroeca	monosierra
+EP00057	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Strongylocentrotus	purpuratus
+EP00058	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Branchiostoma	floridae
+EP00059	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Ciona	intestinalis
+EP00060	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Petromyzon	marinus
+EP00061	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Rhincodon	typus
+EP00062	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Callorhinchus	milii
+EP00063	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Salmo	salar
+EP00064	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Thunnus	orientalis
+EP00065	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Mola	mola
+EP00066	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Takifugu	rubripes
+EP00067	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Danio	rerio
+EP00068	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Latimeria	chalumnae
+EP00069	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Balaena	mysticetus
+EP00070	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Physeter	catodon
+EP00071	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Canis	lupus
+EP00072	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Mus	musculus
+EP00073	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Rattus	norvegicus
+EP00074	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Homo	sapiens
+EP00075	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Anas	platyrhynchos
+EP00076	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Gallus	gallus
+EP00077	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Pelodiscus	sinensis
+EP00078	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Anolis	carolinensis
+EP00079	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Xenopus	tropicalis
+EP00080	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Pristionchus	pacificus
+EP00081	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Caenorhabditis	elegans
+EP00082	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Ixodes	scapularis
+EP00083	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Stegodyphus	mimosarum
+EP00084	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Strigamia	maritima
+EP00085	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Daphnia	pulex
+EP00087	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Eurytemora	affinis
+EP00088	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Acartia	fossae
+EP00090	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Calanus	glacialis
+EP00091	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Calanus	sinicus
+EP00092	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Neocalanus	flemingeri
+EP00093	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Oithona	nana
+EP00094	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Tigriopus	californicus
+EP00095	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Tigriopus	kingsejongensis
+EP00096	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Caligus	rogercresseyi
+EP00097	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Lepeophtheirus	salmonis
+EP00098	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Tribolium	castaneum
+EP00099	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Drosophila	melanogaster
+EP00100	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Culex	quinquefasciatus
+EP00101	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Apis	mellifera
+EP00102	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Acyrthosiphon	pisum
+EP00103	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Capitella	teleta
+EP00104	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Lingula	anatina
+EP00105	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Crassostrea	gigas
+EP00106	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Octopus	bimaculoides
+EP00107	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Lottia	gigantea
+EP00108	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Taenia	solium
+EP00109	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Schistosoma	mansoni
+EP00110	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Nematostella	vectensis
+EP00111	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Clytia	hemisphaerica
+EP00112	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Aurelia	N/A
+EP00113	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Trichoplax	adhaerens
+EP00114	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Trichoplax	N/A
+EP00115	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Mnemiopsis	leidyi
+EP00116	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Pleurobrachia	bachei
+EP00117	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Sycon	ciliatum
+EP00118	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Oscarella	pearsei
+EP00119	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	"Amphimedon"	queenslandica
+EP00731	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Ephydatia	muelleri
+EP00794	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Sanderia	malayensis
+EP00795	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Rhopilema	esculentum
+EP00800	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Choanozoa;Metazoa	Vazella	pourtalesii
+EP00120	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Filasterea	Capsaspora	owczarzaki
+EP01136	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Filasterea	Pigoraptor	vietnamica
+EP01137	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Filozoa;Filasterea	Pigoraptor	chileana
+EP00121	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Ichthyosporea	Abeoforma	whisleri
+EP00122	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Ichthyosporea	Pirum	gemmata
+EP00123	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Ichthyosporea	Amoebidium	parasiticum
+EP00124	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Ichthyosporea	Ichthyophonus	hoferi
+EP00125	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Ichthyosporea	Sphaeroforma	arctica
+EP00126	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Ichthyosporea	Sphaerothecum	destruens
+EP01134	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Ichthyosporea	Creolimax	fragrantissima
+EP01135	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Ichthyosporea	Chromosphaera	perkinsii
+EP00127	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Pluriformea	Corallochytrium	limacisporum
+EP00128	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Holozoa;Pluriformea	Syssomonas	multiformis
+EP00129	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Allomyces	macrogynus
+EP00130	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Batrachochytrium	dendrobatidis
+EP00131	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Spizellomyces	punctatus
+EP00132	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Gonapodya	prolifera
+EP00133	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Fusarium	graminearum
+EP00134	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Neurospora	crassa
+EP00135	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Aspergillus	nidulans
+EP00136	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Aspergillus	niger
+EP00137	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Aspergillus	oryzae
+EP00138	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Coccidioides	posadasii
+EP00139	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Candida	albicans
+EP00140	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Debaryomyces	hansenii
+EP00141	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Yarrowia	lipolytica
+EP00142	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Kluyveromyces	lactis
+EP00143	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Candida	glabrata
+EP00144	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Saccharomyces	cerevisiae
+EP00145	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Schizosaccharomyces	pombe
+EP00146	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Coprinopsis	cinerea
+EP00147	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Laccaria	bicolor
+EP00148	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Cryptococcus	gattii
+EP00149	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Cryptococcus	neoformans
+EP00150	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Ustilago	maydis
+EP00151	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Rhizophagus	irregularis
+EP00152	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Rhizopus	delemar
+EP00153	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Phycomyces	blakesleeanus
+EP00154	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Conidiobolus	coronatus
+EP00155	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Edhazardia	aedis
+EP00156	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Nosema	bombycis
+EP00157	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Rozella	allomycis
+EP00158	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Paraphelidium	tribonemae
+EP00832	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Piromyces	N/A
+EP00833	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Pecoramyces	ruminatium
+EP00834	single-cell genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Sanchytrium	tribonematis
+EP00835	single-cell genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Amoeboradix	gromovi
+EP00839	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Anaeromyces	robustus
+EP00840	single-cell genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Blyttiomyces	helicus
+EP00841	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Caulochytrium	protostelioides
+EP00842	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Homolaphlyctis	polyrhiza
+EP00843	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Neocallimastix	californiae
+EP00844	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Piromyces	finnis
+EP00845	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Rhizoclosmatium	globosum
+EP00846	single-cell genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Dimargaris	cristalligena
+EP00847	single-cell genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Piptocephalis	cylindrospora
+EP00848	single-cell genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Thamnocephalis	sphaerospora
+EP00849	single-cell genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Syncephalis	pseudoplumigaleata
+EP00855	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Neolecta	irregularis
+EP00856	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Taphrina 	deformans
+EP00857	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Cystobasidium	minutum
+EP00858	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Microbotryum	lychnidis-dioicae
+EP00859	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Malassezia	sympodialis
+EP00860	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Wallemia	mellicola
+EP00861	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Lobosporangium	transversale
+EP00862	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Endogone	N/A
+EP00863	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Basidiobolus	meristosporus
+EP00864	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Zancudomyces	culisetae
+EP00865	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Coemansia	reversa
+EP00866	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Antonospora	locustae
+EP00867	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Encephalitozoon	hellem
+EP00868	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Enterocytozoon	bieneusi
+EP00869	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Nematocida	parisii
+EP00870	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Fungi	Mitosporidium	daphniae
+EP00159	genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Rotosphaerida	Fonticula	alba
+EP00160	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Rotosphaerida	Parvularia	atlantis
+EP00732	transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Rotosphaerida	Lithocolla	globosa
+EP00733	single-cell transcriptome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Rotosphaerida	Pompholyxophrys	punicea
+EP00734	single-cell genome	Eukaryota;Amorphea;Obazoa;Opisthokonta;Nucletmycea;Rotosphaerida	Pompholyxophrys	N/A
+EP00161	transcriptome	Eukaryota;Ancyromonadida	Ancyromonas	sigmoides
+EP00162	transcriptome	Eukaryota;Ancyromonadida	Nutomonas	longa
+EP00163	transcriptome	Eukaryota;Ancyromonadida	Fabomonas	tropica
+EP00001	transcriptome	Eukaryota;CRuMs;CR clade;Collodictyonidae	Collodictyon	"triciliatum"
+EP00002	transcriptome	Eukaryota;CRuMs;CR clade;Collodictyonidae	Diphylleia	rotans
+EP00004	transcriptome	Eukaryota;CRuMs;CR clade;Rigifilida	Rigifila	ramosa
+EP00003	transcriptome	Eukaryota;CRuMs;Mantamonas	Mantamonas	plastica
+EP00191	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Tetraselmis	N/A
+EP00192	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Tetraselmis	astigmatica
+EP00193	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Tetraselmis	chui
+EP00195	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Chlamydomonas	chlamydogama
+EP00197	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Chlamydomonas	leiostraca
+EP00198	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Chlamydomonas	reinhardtii
+EP00199	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Chlamydomonas	N/A
+EP00200	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Dunaliella	tertiolecta
+EP00201	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Polytomella	parva
+EP00202	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Volvox	carteri
+EP00203	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Chlorella	variabilis
+EP00204	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Picochlorum	oklahomense
+EP00205	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Picochlorum	N/A
+EP00206	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Coccomyxa	subellipsoidea
+EP00207	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Helicosporidium	N/A
+EP00208	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Stichococcus	N/A
+EP00209	EST	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Acetabularia	acetabulum
+EP00210	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Caulerpa	lentillifera
+EP00211	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Chloroparvula	japonica
+EP00212	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Chloropicon	laureae
+EP00213	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Chloropicon	mariensis
+EP00215	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Chloropicon	roscoffensis
+EP00216	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Chloropicon	N/A
+EP00217	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Crustomastix	stigmatica
+EP00218	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Dolichomastix	N/A
+EP00222	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Ostreococcus	lucimarinus
+EP00223	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Ostreococcus	mediterraneus
+EP00224	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Ostreococcus	tauri
+EP00227	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Mantoniella	beaufortii
+EP00228	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Micromonas	bravo
+EP00229	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Micromonas	commoda
+EP00230	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Micromonas	polaris
+EP00231	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Micromonas	pusilla
+EP00232	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Nephroselmis	pyriformis
+EP00236	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Picocystis	salinarum
+EP00237	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Pycnococcus	provasolii
+EP00238	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	"Polyblepharides"	amylifera
+EP00239	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Pterosperma	N/A
+EP00240	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Pyramimonas	obovata
+EP00241	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Pyramimonas	parkeae
+EP00242	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Pyramimonas	N/A
+EP00738	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Chloropicon	primus
+EP00740	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Mantoniella	antarctica
+EP00775	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Hariotina	reticulata
+EP00798	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Chlamydomonas	N/A
+EP00799	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Chlamydomonas	eustigma
+EP00803	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Ostreobium 	quekettii 
+EP00851	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Chlamydomonas	incerta
+EP00852	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Chlamydomonas	schloesseri
+EP00853	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Edaphochlamys	debaryana
+EP00854	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Cymbomonas	tetramitiformis
+EP00873	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Tetraselmis	striata
+EP00874	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Dunaliella	salina
+EP00875	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Gonium	pectorale
+EP00876	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Tetrabaena	socialis
+EP00877	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Chromochloris	zofingiensis
+EP00878	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Enallax	costatus
+EP00879	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Flechtneria	rotunda
+EP00880	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Monoraphidium	neglectum
+EP00881	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Raphidocelis	subcapitata
+EP00882	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Tetradesmus	deserticola
+EP00883	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Tetradesmus	obliquus
+EP00884	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Botryococcus	braunii
+EP00885	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Auxenochlorella	protothecoides
+EP00886	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Chlorella	sorokiniana
+EP00887	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Chlorella	N/A
+EP00888	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Micractinium	conductrix
+EP00889	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Picochlorum	renovo
+EP00890	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Picochlorum	soloecismus
+EP00891	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Asterochloris	glomerata
+EP00892	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Ulva	mutabilis
+EP00893	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Bathycoccus	prasinos
+EP00894	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Picocystis	N/A
+EP00951	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Prasinocladus	malaysianus
+EP00955	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Chlamydomonas	euryale
+EP00959	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Pyramimonas	N/A
+EP01023	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Acetabularia	acetabulum
+EP01024	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Parvocaulis	polyphysoides
+EP01025	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Chloroclados	australasicus
+EP01026	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Chlorophyta	Neomeris	dumetosa
+EP00235	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Palmophyllophyceae	Prasinoderma	singulare
+EP00793	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Palmophyllophyceae	Prasinoderma	coloniale
+EP00958	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Palmophyllophyceae	Prasinococcus	capsulatus
+EP00243	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Klebsormidium	subtile
+EP00244	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Chara	vulgaris
+EP00245	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Coleochaete	scutata
+EP00246	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Nothoceros	aenigmaticus
+EP00247	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Physcomitrium	patens
+EP00248	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Marchantia	polymorpha
+EP00249	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Psilotum	nudum
+EP00250	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Pteridium	aquilinum
+EP00252	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Welwitschia	mirabilis
+EP00253	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Pinus	taeda
+EP00254	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Amborella	trichopoda
+EP00255	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Erythranthe	guttata
+EP00256	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Glycine	max
+EP00257	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Ricinus	communis
+EP00258	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Populus	trichocarpa
+EP00259	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Arabidopsis	lyrata
+EP00260	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Arabidopsis	thaliana
+EP00261	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Vitis	vinifera
+EP00262	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Sarcandra	glabra
+EP00263	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Brachypodium	distachyon
+EP00264	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Hordeum	vulgare
+EP00265	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Oryza	sativa
+EP00266	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Sorghum	bicolor
+EP00267	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Zea	mays
+EP00268	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Persea	americana
+EP00269	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Selaginella	moellendorffii
+EP00270	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Netrium	digitus
+EP00271	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Cylindrocystis	brebissonii
+EP00850	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Spirogloea	muscicola
+EP00895	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Klebsormidium	nitens
+EP00896	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Chara	braunii
+EP00897	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Mesotaenium	endlicherianum
+EP00898	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Chlorokybus	atmophyticus
+EP00899	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Mesostigma	viride
+EP01018	genome	Eukaryota;Diaphoretickes;Archaeplastida;Chloroplastida;Streptophyta	Ginkgo	biloba
+EP00274	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Glaucophyta	Cyanoptyche	gloeocystis
+EP00275	EST	Eukaryota;Diaphoretickes;Archaeplastida;Glaucophyta	Glaucocystis	incrassata
+EP00276	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;Glaucophyta	Gloeochaete	wittrockiana
+EP00741	genome	Eukaryota;Diaphoretickes;Archaeplastida;Glaucophyta	Cyanophora	paradoxa
+EP00329	single-cell genome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Picozoa	N/A	N/A
+EP01043	single-cell genome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Picozoa	Picomonas	N/A
+EP01044	single-cell genome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Picozoa	Picomonas	judraskeda
+EP01045	single-cell genome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Picozoa	N/A	N/A
+EP01046	single-cell genome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Picozoa	Picomonas	N/A
+EP01047	single-cell genome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Picozoa	N/A	N/A
+EP01048	single-cell genome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Picozoa	N/A	N/A
+EP01049	single-cell genome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Picozoa	N/A	N/A
+EP01050	single-cell genome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Picozoa	N/A	N/A
+EP01051	single-cell genome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Picozoa	N/A	N/A
+EP01052	single-cell genome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Picozoa	N/A	N/A
+EP00735	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodelphis	Rhodelphis	limneticus
+EP00736	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodelphis	Rhodelphis	marinus
+EP00165	genome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Cyanidiales	Cyanidioschyzon	merolae
+EP00166	genome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Cyanidiales	Cyanidium	caldarium
+EP00167	genome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Cyanidiales	Galdieria	sulphuraria
+EP00871	genome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Cyanidiales	Galdieria	phlegrea
+EP00168	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Eurhodophytina	Porphyra	purpurea
+EP00169	genome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Eurhodophytina	Porphyra	umbilicalis
+EP00170	genome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Eurhodophytina	Pyropia	yezoensis
+EP00171	genome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Eurhodophytina	Calliarthron	tuberculosum
+EP00172	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Eurhodophytina	Hildenbrandia	rubra
+EP00173	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Eurhodophytina	Palmaria	palmata
+EP00174	EST	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Eurhodophytina	Griffithsia	okiensis
+EP00175	EST	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Eurhodophytina	Furcellaria	lumbricalis
+EP00176	genome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Eurhodophytina	Chondrus	crispus
+EP00177	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Eurhodophytina	Eucheuma	denticulatum
+EP00178	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Eurhodophytina	Gracilaria	changii
+EP00737	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Eurhodophytina	Agarophyton	chilense
+EP00872	genome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Eurhodophytina	Gracilariopsis	chorda
+EP00179	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Proteorhodophytina	Madagascaria	erythrocladioides
+EP00180	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Proteorhodophytina	Rhodochaete	pulchella
+EP00181	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Proteorhodophytina	Compsopogon	caeruleus
+EP00182	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Proteorhodophytina	Erythrolobus	australicus
+EP00183	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Proteorhodophytina	Erythrolobus	madagascarensis
+EP00184	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Proteorhodophytina	Porphyridium	aerugineum
+EP00185	genome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Proteorhodophytina	Porphyridium	purpureum
+EP00186	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Proteorhodophytina	Timspurckia	oligopyrenoides
+EP00187	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Proteorhodophytina	Rhodella	violacea
+EP00188	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Proteorhodophytina	Purpureofilum	apyrenoidigerum
+EP00189	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Proteorhodophytina	Rhodosorus	marinus
+EP00190	transcriptome	Eukaryota;Diaphoretickes;Archaeplastida;PRR clade;Rhodophyta;Proteorhodophytina	Bangiopsis	N/A
+EP00277	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales	Geminigera	cryophila
+EP00279	genome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales	Guillardia	theta
+EP00281	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales	"Chroomonas"	N/A
+EP00282	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales	Hemiselmis	andersenii
+EP00283	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales	Hemiselmis	rufescens
+EP00284	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales	Hemiselmis	tepida
+EP00285	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales	Hemiselmis	virescens
+EP00286	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales	"Rhodomonas"	abbreviata
+EP00287	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales	"Rhodomonas"	N/A
+EP00288	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales	"Rhodomonas"	lens
+EP00290	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales	Baffinella	frigidus
+EP00291	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales	Cryptomonas	curvata
+EP00292	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales	Cryptomonas	paramecium
+EP00293	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales	Proteomonas	sulcata
+EP00802	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales	Teleaulax	amphioxeia
+EP00960	genome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales	Hanusia	phi
+EP00961	genome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Cryptomonadales	"Rhodomonas"	salina
+EP00294	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Goniomonas	Goniomonas	avonlea
+EP00295	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Cryptophyceae;Goniomonas	Goniomonas	pacifica
+EP00296	transcriptome	Eukaryota;Diaphoretickes;Cryptista;CK clade;Kathablepharidacea	Roombia	truncata
+EP00297	transcriptome	Eukaryota;Diaphoretickes;Cryptista;Palpitomonas	Palpitomonas	bilix
+EP00164	transcriptome	Eukaryota;Diaphoretickes;Haptista;Ancoracysta	Ancoracysta	twista
+EP00298	transcriptome	Eukaryota;Diaphoretickes;Haptista;Centroplasthelida	Acanthocystis	N/A
+EP00299	transcriptome	Eukaryota;Diaphoretickes;Haptista;Centroplasthelida	"Pterocystis"	N/A
+EP00300	transcriptome	Eukaryota;Diaphoretickes;Haptista;Centroplasthelida	Choanocystis	N/A
+EP00301	transcriptome	Eukaryota;Diaphoretickes;Haptista;Centroplasthelida	Raphidiophrys	heterophryoidea
+EP00302	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Pavlovales	Diacronema	N/A
+EP00303	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Pavlovales	Exanthemachrysis	gayraliae
+EP00304	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Pavlovales	Pavlova	gyrans
+EP00306	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Pavlovales	Pavlova	N/A
+EP00307	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Pavlovales	Rebecca	N/A
+EP00963	genome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Pavlovales	Diacronema	lutheri
+EP00308	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae	Calcidiscus	leptoporus
+EP00310	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae	Coccolithus	braarudii
+EP00312	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae	N/A	N/A
+EP00314	genome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae	Emiliania	huxleyi
+EP00315	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae	Gephyrocapsa	oceanica
+EP00316	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae	Scyphosphaera	apsteinii
+EP00320	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae	Phaeocystis	rex
+EP00321	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae	Phaeocystis	globosa
+EP00322	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae	Chrysochromulina	rotalis
+EP00323	genome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae	Chrysochromulina	tobinii
+EP00324	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae	Dicrateria	rotunda
+EP00325	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae	N/A	N/A
+EP00326	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae	Haptolina	ericina
+EP00327	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae	Prymnesium	parvum
+EP00900	genome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae	Chrysochromulina	parva
+EP00908	transcriptome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae	Phaeocystis	cordata
+EP00962	genome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae	Isochrysis	galbana
+EP00964	genome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae	Phaeocystis	antarctica
+EP00965	genome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae	Chrysotila	dentata
+EP00966	genome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae	Prymnesium	polylepis
+EP00967	genome	Eukaryota;Diaphoretickes;Haptista;Haptophyta;Prymnesiophyceae	Tisochrysis	lutea
+EP00330	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Aristerostoma	N/A
+EP00331	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	"Platyophrya"	macrostoma
+EP00332	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Ichthyophthirius	multifiliis
+EP00333	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Tetrahymena	thermophila
+EP00334	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Paramecium	tetraurelia
+EP00335	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Anophryoides	haemophila
+EP00336	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Pseudocohnilembus	persalinus
+EP00339	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Tiarina	fusa
+EP00340	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Litonotus	pictus
+EP00341	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Mesodinium	pulex
+EP00343	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Euplotes	focardii
+EP00344	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Euplotes	crassus
+EP00345	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Euplotes	harpa
+EP00347	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	"Sterkiella"	histriomuscorum
+EP00348	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Stylonychia	lemnae
+EP00349	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Pseudokeronopsis	N/A
+EP00350	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Pseudokeronopsis	N/A
+EP00351	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Strombidinopsis	N/A
+EP00352	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Strombidinopsis	acuminata
+EP00353	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Schmidingerella	taraikaensis
+EP00354	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Favella	ehrenbergii
+EP00355	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	"Strombidium"	rassoulzadegani
+EP00356	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	"Strombidium"	inclinatum
+EP00357	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Protocruzia	adherens
+EP00358	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Blepharisma	japonicum
+EP00359	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Climacostomum	virens
+EP00360	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	"Condylostoma"	magnum
+EP00361	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Fabrea	salina
+EP00362	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	N/A	N/A
+EP00801	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Mesodinium	rubrum
+EP00806	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Schmidingerella	arcuata
+EP00810	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	"Oxytricha"	trifallax
+EP00824	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Muranothrix	gubernata
+EP00825	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Cyclidium	porcatum
+EP00826	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	"Nyctotherus"	"ovalis"
+EP00827	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Trimyema	finlayi
+EP00828	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Plagiopyla	frontata
+EP00829	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Urostomides	striatus
+EP00830	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Metopus	es
+EP00831	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	"Metopus"	"contortus"
+EP01015	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Nassula	variabilis
+EP01016	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Furgasonia	blochmanni
+EP01017	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Pseudomicrothorax	dubius
+EP01019	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Chilodonella	uncinata
+EP01022	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Ciliophora	Parablepharisma	N/A
+EP00742	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Colponemidae	N/A	N/A
+EP00743	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Colponemidae	N/A	N/A
+EP00744	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Colponemidae	Colponema	vietnamica
+EP00364	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Plasmodium	chabaudi
+EP00365	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Plasmodium	falciparum
+EP00366	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Plasmodium	knowlesi
+EP00367	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Plasmodium	vivax
+EP00369	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	"Babesia"	microti
+EP00370	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Babesia	bigemina
+EP00371	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Babesia	bovis
+EP00372	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	"Theileria"	equi
+EP00373	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Theileria	annulata
+EP00374	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Theileria	orientalis
+EP00375	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Theileria	parva
+EP00376	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Eimeria	tenella
+EP00377	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Hammondia	hammondi
+EP00378	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Neospora	caninum
+EP00379	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Toxoplasma	gondii
+EP00380	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Ascogregarina	taiwanensis
+EP00381	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	"Gregarina"	niphandrodes
+EP00382	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Lankesteria	abbotti
+EP00384	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Cryptosporidium	muris
+EP00821	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Plasmodium	berghei
+EP00822	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Plasmodium	yoelii
+EP00901	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Cardiosporidium	cionae
+EP00914	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Ancora	sagittata
+EP00915	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Cephaloidophora	N/A
+EP00917	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Polyrhabdina	N/A
+EP00918	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Siedleckia	nematoides
+EP00920	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Eleutheroschizon	duboscqi
+EP00921	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Rhytidocystis	pertsovi
+EP00922	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Rhytidocystis	N/A
+EP00923	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Selenidium	pygospionis
+EP00988	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Cryptosporidium	hominis
+EP00989	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Cryptosporidium	parvum
+EP01053	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Blabericola	migrator
+EP01054	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	"Gregarina"	N/A
+EP01055	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	"Gregarina"	N/A
+EP01056	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Protomagalhaensia	N/A
+EP01057	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Protomagalhaensia	wolfi
+EP01068	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Selenidium	serpulae
+EP01069	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Polyplicarium	translucidae
+EP01070	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Trichotokara	eunicae
+EP01071	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Apicomplexa	Lankesteria	metandrocarpae
+EP00386	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Colpodellida	Alphamonas	edax
+EP00388	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Colpodellida	Colpodella	angusta
+EP00389	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Colpodellida	Voromonas	pontica
+EP00390	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Colpodellida	Vitrella	brassicaformis
+EP00745	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Colpodellida	Piridium	sociabile
+EP00820	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Colpodellida	Chromera	velia
+EP00919	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Colpodellida	N/A	N/A
+EP00916	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Squirmida	Digyalum	oweni
+EP01066	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Squirmida	Platyproteum	vivax
+EP01067	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;AC clade;Squirmida	Filipodium	phascolosomae
+EP00391	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	"Amoebophrya"	N/A
+EP00392	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	"Amoebophrya"	N/A
+EP00395	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	N/A	N/A
+EP00396	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	N/A	N/A
+EP00397	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Hematodinium	N/A
+EP00398	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	N/A	N/A
+EP00399	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	N/A	N/A
+EP00400	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	N/A	N/A
+EP00401	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	"Gymnodinium"	catenatum
+EP00403	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Amphidinium	massartii
+EP00404	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Azadinium	spinosum
+EP00405	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Crypthecodinium	cohnii
+EP00406	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Dinophysis	acuminata
+EP00408	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Alexandrium	pacificum
+EP00409	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Alexandrium	fundyense
+EP00411	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Alexandrium	monilatum
+EP00413	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Alexandrium	margalefii
+EP00414	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Alexandrium	minutum
+EP00415	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Alexandrium	ostenfeldii
+EP00416	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Gambierdiscus	australes
+EP00418	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Pyrodinium	bahamense
+EP00419	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Tripos	fusus
+EP00420	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Gonyaulax	spinifera
+EP00421	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Protoceratium	reticulatum
+EP00424	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Heterocapsa	rotundata
+EP00425	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Heterocapsa	triquetra
+EP00427	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Karlodinium	veneficum
+EP00428	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Durinskia	dybowskii
+EP00429	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Kryptoperidinium	foliaceum
+EP00434	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Breviolum	minutum
+EP00435	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Cladocopium	N/A
+EP00437	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Effrenium	voratum
+EP00438	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Fugacium	kawagutii
+EP00439	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Symbiodinium	N/A
+EP00440	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Ansanella	granifera
+EP00441	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Pelagodinium	beii
+EP00442	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Polarella	glacialis
+EP00443	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Scrippsiella	acuminata
+EP00444	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Apocalathium	aciculiferum
+EP00445	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Apocalathium	hangoei
+EP00446	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Apocalathium	N/A
+EP00448	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Togula	jolla
+EP00449	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Zooxanthella	nutricula
+EP00450	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Noctiluca	scintillans
+EP00451	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Oxyrrhis	marina
+EP00452	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	N/A	N/A
+EP00746	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	N/A	N/A
+EP00747	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	N/A	N/A
+EP00811	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Abedinium	folium
+EP00812	single-cell transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Abedinium	dasypus
+EP00913	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Durusdinium	trenchii
+EP00925	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Amoebophrya	N/A
+EP00926	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Amoebophrya	N/A
+EP00927	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Polykrikos  	kofoidii
+EP00928	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	"Gymnodinium"	smaydae
+EP00929	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Paragymnodinium	shiwhaense
+EP00930	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Biecheleria	cincta
+EP00931	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Biecheleriopsis	adriatica
+EP00932	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Pfiesteria	piscicida
+EP00933	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Yihiella	yeosuensis
+EP00969	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Alexandrium	andersonii
+EP00970	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Alexandrium	tamarense
+EP00971	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Amphidinium	carterae
+EP00972	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Heterocapsa	arctica
+EP00973	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Karenia	brevis
+EP00974	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	Lingulodinium	polyedra
+EP00975	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	"Prorocentrum"	lima
+EP00976	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Dinoflagellata	"Prorocentrum"	cordatum
+EP00453	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Perkinsea	Perkinsus	chesapeaki
+EP00454	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Alveolata;Myzozoa;DP clade;Perkinsea	Perkinsus	marinus
+EP00935	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;MAST-01	N/A	N/A
+EP00936	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;MAST-01	N/A	N/A
+EP00937	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;MAST-01	N/A	N/A
+EP00518	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Triparma	eleuthera
+EP00519	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Triparma	laevis
+EP00520	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Triparma	pacifica
+EP00521	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Asterionellopsis	glacialis
+EP00522	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Entomoneis	paludosa
+EP00523	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Entomoneis	N/A
+EP00525	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Craspedostauros	australis
+EP00526	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Cylindrotheca	closterium
+EP00527	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Entomoneis	N/A
+EP00528	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Fragilariopsis	cylindrus
+EP00529	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Nitzschia	N/A
+EP00530	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Phaeodactylum	tricornutum
+EP00531	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Pseudo-nitzschia	arenysensis
+EP00532	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Pseudo-nitzschia	australis
+EP00533	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Pseudo-nitzschia	delicatissima
+EP00534	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Pseudo-nitzschia	fraudulenta
+EP00535	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Pseudo-nitzschia	heimii
+EP00536	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Pseudo-nitzschia	multiseries
+EP00537	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Pseudo-nitzschia	pungens
+EP00538	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Stauroneis	constricta
+EP00539	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Tryblionella	compressa
+EP00540	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Astrosyne	radiata
+EP00541	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Cyclophora	tenuis
+EP00542	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Grammatophora	oceanica
+EP00543	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Licmophora	paradoxa
+EP00544	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Gedaniella	N/A
+EP00545	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Synedropsis	N/A
+EP00546	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Thalassionema	frauenfeldii
+EP00547	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Thalassionema	nitzschioides
+EP00548	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Thalassiothrix	antarctica
+EP00549	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Striatella	unipunctata
+EP00550	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Attheya	septentrionalis
+EP00551	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Chaetoceros	affinis
+EP00552	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Chaetoceros	brevis
+EP00553	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Chaetoceros	curvisetus
+EP00554	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Chaetoceros	debilis
+EP00555	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Chaetoceros	dichaeta
+EP00557	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Chaetoceros	N/A
+EP00558	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Chaetoceros	N/A
+EP00559	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Dactyliosolen	fragilissimus
+EP00560	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Eucampia	antarctica
+EP00561	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Arcocellulus	cornucervis
+EP00562	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Extubocellulus	spinifer
+EP00563	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Minutocellus	polymorphus
+EP00565	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Helicotheca	tamesis
+EP00566	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Odontella	aurita
+EP00567	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Pseudictyota	dubia
+EP00568	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Trieres	chinensis
+EP00569	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Conticribra	weissflogii
+EP00571	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Detonula	confervacea
+EP00573	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Skeletonema	grethae
+EP00574	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Skeletonema	japonicum
+EP00577	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Skeletonema	N/A
+EP00578	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Thalassiosira	N/A
+EP00579	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Thalassiosira	antarctica
+EP00580	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Thalassiosira	gravida
+EP00581	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Thalassiosira	minuscula
+EP00582	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Thalassiosira	oceanica
+EP00584	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Thalassiosira	punctigera
+EP00585	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Thalassiosira	rotula
+EP00586	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Coscinodiscus	wailesii
+EP00587	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Corethron	hystrix
+EP00588	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Corethron	pennatum
+EP00590	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Aulacoseira	subarctica
+EP00591	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Stephanopyxis	turris
+EP00592	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Proboscia	alata
+EP00593	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Proboscia	inermis
+EP00594	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Rhizosolenia	setigera
+EP00595	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Chromulina	N/A
+EP00596	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	N/A	N/A
+EP00597	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Dinobryon	N/A
+EP00598	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Pedospumella	elongata
+EP00599	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Poterioochromonas	N/A
+EP00600	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	N/A	N/A
+EP00601	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	N/A	N/A
+EP00602	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Paraphysomonas	N/A
+EP00603	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Paraphysomonas	imperforata
+EP00604	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Paraphysomonas	vestita
+EP00605	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	N/A	N/A
+EP00606	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	N/A	N/A
+EP00607	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Mallomonas	marina
+EP00608	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Synchroma	pusillum
+EP00609	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Ectocarpus	siliculosus
+EP00610	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Laminaria	digitata
+EP00611	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Tribonema	gayanum
+EP00612	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Vaucheria	litorea
+EP00613	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Pedinella	N/A
+EP00614	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Pseudopedinella	elastica
+EP00615	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Pteridomonas	danica
+EP00616	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Rhizochromulina	N/A
+EP00617	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Octactis	speculum
+EP00618	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Florenciella	parvula
+EP00619	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Florenciella	N/A
+EP00620	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Florenciella	N/A
+EP00621	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Florenciella	N/A
+EP00622	EST	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Pseudochattonella	farcimen
+EP00623	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Microchloropsis	gaditana
+EP00624	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Nannochloropsis	granulata
+EP00625	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Aureococcus	anophagefferens
+EP00628	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	N/A	N/A
+EP00629	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	N/A	N/A
+EP00630	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Chrysocystis	fragilis
+EP00631	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Chrysoreinhardia	giraudii
+EP00632	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Arachnochrysis	N/A
+EP00633	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Aureoumbra	lagunensis
+EP00634	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Sargassococcus	N/A
+EP00635	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	N/A	N/A
+EP00636	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Phaeomonas	parva
+EP00638	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Chattonella	subsalsa
+EP00639	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Heterosigma	akashiwo
+EP00640	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Fibrocapsa	japonica
+EP00751	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Fragilariopsis	kerguelensis
+EP00752	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Nemacystus	decipiens
+EP00797	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Seminavis	robusta
+EP00804	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Cyclotella	cryptica
+EP00814	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Leptocylindrus	danicus
+EP00815	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Leptocylindrus	aporus
+EP00816	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Leptocylindrus	hargravesii
+EP00902	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Fistulifera	solaris
+EP00903	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Cladosiphon	okamuranus
+EP00904	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Undaria	pinnatifida
+EP00905	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Microchloropsis	salina
+EP00934	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Nitzschia	N/A
+EP00952	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Eustigmatos	N/A
+EP00953	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Heterococcus	N/A
+EP00956	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Cyclotella	meneghiniana
+EP00957	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Ditylum	brightwellii
+EP00968	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Pinguiococcus	pyrenoidosus
+EP00977	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Amphora	coffeiformis
+EP00978	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Attheya	N/A
+EP00979	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Chaetoceros	neogracilis
+EP00980	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Cylindrotheca	fusiformis
+EP00981	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Chlorochromonas	danica
+EP00982	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Pelagococcus	subviridis
+EP00983	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Pelagomonas	calceolata
+EP00984	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Skeletonema	dohrnii
+EP00985	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Skeletonema	marinoi
+EP00986	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Skeletonema	menzelii
+EP01030	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Chromulinospumella	sphaerica
+EP01031	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Cornospumella	fuschlensis
+EP01032	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Pedospumella	encystans
+EP01033	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Poteriospumella	lacustris
+EP01034	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Spumella	vulgaris
+EP01035	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Chromulina 	nebulosa
+EP01036	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Dinobryon	divergens
+EP01037	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Dinobryon	pediforme
+EP01038	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Epipyxis	N/A
+EP01039	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Chlorochromonas 	danica
+EP01040	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Poterioochromonas	malhamensis
+EP01041	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Mallomonas	annulata
+EP01042	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Synura 	sphagnicola
+EP01082	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Ochrophyta	Thalassiosira	pseudonana
+EP00641	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Peronosporomycetes	Albugo	candida
+EP00642	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Peronosporomycetes	Albugo	laibachii
+EP00643	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Peronosporomycetes	Hyaloperonospora	arabidopsidis
+EP00644	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Peronosporomycetes	Phytophthora	capsici
+EP00645	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Peronosporomycetes	Phytophthora	infestans
+EP00646	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Peronosporomycetes	Phytophthora	ramorum
+EP00647	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Peronosporomycetes	Phytophthora	sojae
+EP00648	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Peronosporomycetes	Phytopythium	vexans
+EP00649	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Peronosporomycetes	Plasmopara	halstedii
+EP00650	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Peronosporomycetes	Pythium	arrhenomanes
+EP00652	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Peronosporomycetes	Aphanomyces	astaci
+EP00653	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Peronosporomycetes	Aphanomyces	invadans
+EP00654	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Peronosporomycetes	Saprolegnia	diclina
+EP00655	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Peronosporomycetes	Saprolegnia	parasitica
+EP00813	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Gyrista;Peronosporomycetes	Pythium	oligandrum
+EP00499	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Opalozoa	Haloplacidia	N/A
+EP00500	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Opalozoa	N/A	N/A
+EP00501	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Opalozoa	N/A	N/A
+EP00503	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Opalozoa	Blastocystis	N/A
+EP00504	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Opalozoa	Blastocystis	N/A
+EP00749	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Opalozoa	Cafeteria	burkhardae
+EP00750	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Opalozoa	Incisomonas	marina
+EP00938	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Opalozoa	N/A	N/A
+EP00939	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Opalozoa	N/A	N/A
+EP00940	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Opalozoa	N/A	N/A
+EP00941	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Opalozoa	N/A	N/A
+EP01029	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Opalozoa	Cantina	marsupialis
+EP01138	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Opalozoa	Halocafeteria	seosinensis
+EP00505	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Sagenista	N/A	N/A
+EP00510	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Sagenista	Aplanochytrium	minuta
+EP00511	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Sagenista	Aplanochytrium	stocchinoi
+EP00512	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Sagenista	Aurantiochytrium	limacinum
+EP00513	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Sagenista	Hondaea	fermentalgiana
+EP00514	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Sagenista	"Thraustochytrium"	N/A
+EP00515	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Sagenista	Schizochytrium	aggregatum
+EP00516	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Sagenista	Mucochytrium	quahogii
+EP00924	genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Sagenista	Labyrinthula	N/A
+EP00942	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Sagenista	N/A	N/A
+EP00943	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Sagenista	N/A	N/A
+EP00944	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Sagenista	N/A	N/A
+EP00945	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Sagenista	N/A	N/A
+EP00946	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Sagenista	N/A	N/A
+EP00947	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Sagenista	N/A	N/A
+EP00948	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Sagenista	N/A	N/A
+EP00949	single-cell genome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;GOS clade;Sagenista	N/A	N/A
+EP00753	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;AS clade;Stramenopiles;Platysulcus	Platysulcus	tardus
+EP00456	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa	Euglypha	rotunda
+EP00457	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa	Paulinella	chromatophora
+EP00460	EST	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa	Paracercomonas	marina
+EP00461	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa	Guttulinopsis	vulgaris
+EP00462	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa	Mataza	N/A
+EP00463	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa	Aulacantha	scolymantha
+EP00465	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa	Bigelowiella	longifila
+EP00466	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa	Bigelowiella	natans
+EP00467	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa	Chlorarachnion	reptans
+EP00468	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa	Gymnochlora	N/A
+EP00469	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa	Lotharella	globosa
+EP00470	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa	Lotharella	oceanica
+EP00471	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa	Norrisiella	sphaerica
+EP00472	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa	Partenskyella	glossopodia
+EP00808	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa	Paulinella	micropora
+EP00823	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa	Brevimastigomonas	motovehiculus
+EP00954	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Cercozoa	Amorphochlora	amoebiformis
+EP00473	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Endomyxa	Plasmodiophora	brassicae
+EP00474	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Endomyxa	"Spongospora"	subterranea
+EP00475	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Endomyxa	Leptophrys	vorax
+EP00477	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Endomyxa	Mikrocytos	mackini
+EP00478	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Endomyxa	Filoreta	tenera
+EP00479	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Endomyxa	Gromia	sphaerica
+EP00455	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;eorhiza;Aquavolonida	Lapot	gusevi
+EP00480	genome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Foraminifera	Reticulomyxa	filosa
+EP00481	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Foraminifera	Brizalina	N/A
+EP00483	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Foraminifera	Globobulimina	turgida
+EP00484	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Foraminifera	Ammonia	N/A
+EP00485	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Foraminifera	Elphidium	margaritaceum
+EP00486	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Foraminifera	Rosalina	N/A
+EP00487	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Foraminifera	Bulimina	marginata
+EP00488	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Foraminifera	Nonionellina	N/A
+EP00490	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Foraminifera	Sorites	N/A
+EP01083	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Foraminifera	Nonionella	stella
+EP01084	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Foraminifera	Bolivina	argentea
+EP00492	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Radiolaria	"Amphilonche"	elongata
+EP00493	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Radiolaria	"Phyllostaurus"	siculus
+EP00494	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Radiolaria	Astrolonche	serrata
+EP00495	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Radiolaria	N/A	N/A
+EP00497	transcriptome	Eukaryota;Diaphoretickes;TSAR;Sar;Rhizaria;Retaria;Radiolaria	Spongosphaera	streptacantha
+EP00656	transcriptome	Eukaryota;Diaphoretickes;TSAR;Telonemia	Telonema	subtile
+EP00657	transcriptome	Eukaryota;Diaphoretickes;TSAR;Telonemia	Telonema	N/A
+EP00658	transcriptome	Eukaryota;Diaphoretickes;TSAR;Telonemia	Telonema	N/A
+EP00659	genome	Eukaryota;Discoba;Euglenozoa;Diplonemea	"Diplonema"	papillatum
+EP00660	single-cell genome	Eukaryota;Discoba;Euglenozoa;Diplonemea	Eupelagonema	oceanica
+EP00661	single-cell genome	Eukaryota;Discoba;Euglenozoa;Diplonemea	N/A	N/A
+EP00662	single-cell genome	Eukaryota;Discoba;Euglenozoa;Diplonemea	N/A	N/A
+EP00663	single-cell genome	Eukaryota;Discoba;Euglenozoa;Diplonemea	N/A	N/A
+EP00664	single-cell genome	Eukaryota;Discoba;Euglenozoa;Diplonemea	N/A	N/A
+EP00665	single-cell genome	Eukaryota;Discoba;Euglenozoa;Diplonemea	N/A	N/A
+EP00666	single-cell genome	Eukaryota;Discoba;Euglenozoa;Diplonemea	N/A	N/A
+EP00754	transcriptome	Eukaryota;Discoba;Euglenozoa;Diplonemea	Rhynchopus	humris
+EP00755	transcriptome	Eukaryota;Discoba;Euglenozoa;Diplonemea	Sulcionema	specki
+EP00756	transcriptome	Eukaryota;Discoba;Euglenozoa;Diplonemea	Hemistasia	phaeocysticola
+EP01059	transcriptome	Eukaryota;Discoba;Euglenozoa;Diplonemea	Diplonema	ambulator
+EP01060	transcriptome	Eukaryota;Discoba;Euglenozoa;Diplonemea	Flectonema	neradi
+EP01061	transcriptome	Eukaryota;Discoba;Euglenozoa;Diplonemea	Rhynchopus	euleeides
+EP01062	transcriptome	Eukaryota;Discoba;Euglenozoa;Diplonemea	Namystynia	karyoxenos
+EP01063	transcriptome	Eukaryota;Discoba;Euglenozoa;Diplonemea	Lacrimia	lanifica
+EP01064	transcriptome	Eukaryota;Discoba;Euglenozoa;Diplonemea	Diplonema	japonicum
+EP01065	transcriptome	Eukaryota;Discoba;Euglenozoa;Diplonemea	Artemidia	motanka
+EP00667	genome	Eukaryota;Discoba;Euglenozoa;Euglenida	Euglena	gracilis
+EP00668	transcriptome	Eukaryota;Discoba;Euglenozoa;Euglenida	Euglena	longa
+EP00669	transcriptome	Eukaryota;Discoba;Euglenozoa;Euglenida	Euglena	mutabilis
+EP00670	transcriptome	Eukaryota;Discoba;Euglenozoa;Euglenida	"Eutreptiella"	braarudii
+EP00906	transcriptome	Eukaryota;Discoba;Euglenozoa;Euglenida	Rhabdomonas	costata
+EP00992	single-cell transcriptome	Eukaryota;Discoba;Euglenozoa;Euglenida	Anisonema	acinus
+EP00993	single-cell transcriptome	Eukaryota;Discoba;Euglenozoa;Euglenida	Chasmostoma	nieuportense
+EP00994	single-cell transcriptome	Eukaryota;Discoba;Euglenozoa;Euglenida	Dinema	validum
+EP00995	single-cell transcriptome	Eukaryota;Discoba;Euglenozoa;Euglenida	Heteronema	vittatum
+EP00996	single-cell transcriptome	Eukaryota;Discoba;Euglenozoa;Euglenida	Jenningsia	fusiforme
+EP00997	single-cell transcriptome	Eukaryota;Discoba;Euglenozoa;Euglenida	Jenningsia	N/A
+EP00998	transcriptome	Eukaryota;Discoba;Euglenozoa;Euglenida	Keelungia	N/A
+EP00999	single-cell transcriptome	Eukaryota;Discoba;Euglenozoa;Euglenida	Lentomonas	N/A
+EP01000	single-cell transcriptome	Eukaryota;Discoba;Euglenozoa;Euglenida	Liburna	glaciale
+EP01001	single-cell transcriptome	Eukaryota;Discoba;Euglenozoa;Euglenida	Neometanema	parovale
+EP01002	transcriptome	Eukaryota;Discoba;Euglenozoa;Euglenida	Notosolenus	urceolatus
+EP01003	single-cell transcriptome	Eukaryota;Discoba;Euglenozoa;Euglenida	Olkasia	polycarbonata
+EP01004	single-cell transcriptome	Eukaryota;Discoba;Euglenozoa;Euglenida	Peranema	trichophorum
+EP01005	single-cell transcriptome	Eukaryota;Discoba;Euglenozoa;Euglenida	Ploeotia	N/A
+EP01006	transcriptome	Eukaryota;Discoba;Euglenozoa;Euglenida	Ploeotia	vitrea
+EP01007	single-cell transcriptome	Eukaryota;Discoba;Euglenozoa;Euglenida	Sphenomonas	quadrangularis
+EP01010	single-cell transcriptome	Eukaryota;Discoba;Euglenozoa;Euglenida	Urceolus	"cornutus"
+EP01011	single-cell transcriptome	Eukaryota;Discoba;Euglenozoa;Euglenida	Urceolus	N/A
+EP01012	transcriptome	Eukaryota;Discoba;Euglenozoa;Euglenida	Entosiphon	sulcatum
+EP01013	transcriptome	Eukaryota;Discoba;Euglenozoa;Euglenida	Petalomonas	cantuscygni
+EP01079	single-cell genome	Eukaryota;Discoba;Euglenozoa;Euglenida	N/A	N/A
+EP00671	genome	Eukaryota;Discoba;Euglenozoa;Kinetoplastea	Bodo	saltans
+EP00672	transcriptome	Eukaryota;Discoba;Euglenozoa;Kinetoplastea	"Neobodo"	designis
+EP00673	genome	Eukaryota;Discoba;Euglenozoa;Kinetoplastea	Leishmania	infantum
+EP00674	genome	Eukaryota;Discoba;Euglenozoa;Kinetoplastea	Leishmania	major
+EP00675	genome	Eukaryota;Discoba;Euglenozoa;Kinetoplastea	Leptomonas	pyrrhocoris
+EP00676	genome	Eukaryota;Discoba;Euglenozoa;Kinetoplastea	Leptomonas	seymouri
+EP00677	genome	Eukaryota;Discoba;Euglenozoa;Kinetoplastea	Phytomonas	N/A
+EP00678	genome	Eukaryota;Discoba;Euglenozoa;Kinetoplastea	Phytomonas	N/A
+EP00679	genome	Eukaryota;Discoba;Euglenozoa;Kinetoplastea	Angomonas	deanei
+EP00680	genome	Eukaryota;Discoba;Euglenozoa;Kinetoplastea	Strigomonas	culicis
+EP00681	genome	Eukaryota;Discoba;Euglenozoa;Kinetoplastea	Trypanosoma	brucei
+EP00682	genome	Eukaryota;Discoba;Euglenozoa;Kinetoplastea	Trypanosoma	cruzi
+EP00683	genome	Eukaryota;Discoba;Euglenozoa;Kinetoplastea	Trypanosoma	rangeli
+EP00684	genome	Eukaryota;Discoba;Euglenozoa;Kinetoplastea	Trypanosoma	vivax
+EP00685	genome	Eukaryota;Discoba;Euglenozoa;Kinetoplastea	Perkinsela	N/A
+EP00757	single-cell genome	Eukaryota;Discoba;Euglenozoa;Kinetoplastea	N/A	N/A
+EP00758	transcriptome	Eukaryota;Discoba;Euglenozoa;Kinetoplastea	Cryptobia	borreli
+EP00759	transcriptome	Eukaryota;Discoba;Euglenozoa;Kinetoplastea	Apiculatamorpha	spiralis
+EP00760	transcriptome	Eukaryota;Discoba;Euglenozoa;Kinetoplastea	Papus	ankaliazontas
+EP00796	genome	Eukaryota;Discoba;Euglenozoa;Kinetoplastea	Vickermania	ingenoplastis
+EP01008	single-cell transcriptome	Eukaryota;Discoba;Euglenozoa;Symbiontida	N/A	N/A
+EP01009	single-cell transcriptome	Eukaryota;Discoba;Euglenozoa;Symbiontida	N/A	N/A
+EP00686	genome	Eukaryota;Discoba;Heterolobosea	Naegleria	gruberi
+EP00688	EST	Eukaryota;Discoba;Heterolobosea	Stachyamoeba	lipophora
+EP00689	EST	Eukaryota;Discoba;Heterolobosea	Sawyeria	marylandensis
+EP00761	transcriptome	Eukaryota;Discoba;Heterolobosea	Pharyngomonas	kirbyi
+EP00817	transcriptome	Eukaryota;Discoba;Heterolobosea	N/A	N/A
+EP00818	transcriptome	Eukaryota;Discoba;Heterolobosea	Percolomonas	N/A
+EP01027	transcriptome	Eukaryota;Discoba;Heterolobosea	N/A	N/A
+EP01080	genome	Eukaryota;Discoba;Heterolobosea	Neovahlkampfia	damariscottae
+EP00690	EST	Eukaryota;Discoba;Jakobida	"Seculamonas"	"ecuadoriensis"
+EP00691	EST	Eukaryota;Discoba;Jakobida	Histiona	aroides
+EP00692	EST	Eukaryota;Discoba;Jakobida	"Jakoba"	bahamiensis
+EP00693	EST	Eukaryota;Discoba;Jakobida	Jakoba	libera
+EP00694	EST	Eukaryota;Discoba;Jakobida	Reclinomonas	americana
+EP00762	genome	Eukaryota;Discoba;Jakobida	Andalucia	godoyi
+EP01028	transcriptome	Eukaryota;Discoba;Jakobida	Stygiella	incarcerata
+EP00695	transcriptome	Eukaryota;Discoba;Tsukubamonadida	Tsukubamonas	globosa
+EP00696	single-cell transcriptome	Eukaryota;Hemimastigophora	Hemimastix	kukwesjijk
+EP00697	single-cell transcriptome	Eukaryota;Hemimastigophora	Spironema	N/A
+EP00698	transcriptome	Eukaryota;Malawimonadida	Gefionella	okellyi
+EP00699	EST	Eukaryota;Malawimonadida	Malawimonas	"californiana"
+EP00700	EST	Eukaryota;Malawimonadida	Malawimonas	jakobiformis
+EP01155	transcriptome	Eukaryota;Metamonada;AP clade;Anaeramoebidae	Anaeramoeba	flamelloides
+EP01156	transcriptome	Eukaryota;Metamonada;AP clade;Anaeramoebidae	Anaeramoeba	ignava
+EP00705	genome	Eukaryota;Metamonada;AP clade;Parabasalia	Trichomonas	vaginalis
+EP00706	genome	Eukaryota;Metamonada;AP clade;Parabasalia	Tritrichomonas	foetus
+EP00792	transcriptome	Eukaryota;Metamonada;BF clade;Barthelona	Barthelona	N/A
+EP00701	genome	Eukaryota;Metamonada;BF clade;Fornicata	Giardia	intestinalis
+EP00702	genome	Eukaryota;Metamonada;BF clade;Fornicata	"Spironucleus"	salmonicida
+EP00703	transcriptome	Eukaryota;Metamonada;BF clade;Fornicata	Trepomonas	N/A
+EP00704	genome	Eukaryota;Metamonada;BF clade;Fornicata	Kipferlia	bialata
+EP00763	genome	Eukaryota;Metamonada;BF clade;Fornicata	Giardia	muris
+EP00764	transcriptome	Eukaryota;Metamonada;BF clade;Fornicata	Aduncisulcus	paluster
+EP00766	transcriptome	Eukaryota;Metamonada;BF clade;Fornicata	Chilomastix	caulleryi
+EP00767	transcriptome	Eukaryota;Metamonada;BF clade;Fornicata	"Chilomastix"	cuspidata
+EP00768	transcriptome	Eukaryota;Metamonada;BF clade;Fornicata	Dysnectes	brevis
+EP00769	transcriptome	Eukaryota;Metamonada;BF clade;Fornicata	Ergobibamus	cyprinoides
+EP01146	genome	Eukaryota;Metamonada;BF clade;Fornicata	Carpediemonas	membranifera
+EP00770	genome	Eukaryota;Metamonada;Preaxostyla;Oxymonadida	Monocercomonoides	exilis
+EP00708	transcriptome	Eukaryota;Metamonada;Preaxostyla;Paratrimastigidae	Paratrimastix	pyriformis
+EP00771	transcriptome	Eukaryota;Metamonada;Preaxostyla;Trimastigidae	Trimastix	marina

@@ -33,7 +33,7 @@ foreach my $data_type (@ITOL_DATA_TYPES)
     push(@ITOL_DATA_TYPES_TO_PRINT, ucfirst($data_type));
 }
 
-# create a hash for conveniently checking whether data types in the put file are permitted
+# create a hash for conveniently checking whether data types in the output file are permitted
 foreach my $data_type (@ITOL_DATA_TYPES)
 {
     $DATA_TYPES{$data_type} = 1;
@@ -100,12 +100,12 @@ sub main
     print COUNTS "SEPARATOR COMMA\n";
     print COUNTS "DATASET_LABEL,taxon_counts\n";
     print COUNTS "COLOR,#ff0000\n";
-    print COUNTS "FIELD_COLORS,#1f78b4,#a6cee3,#006d2c,#74c476,#e5f5e0\n";
+    print COUNTS "FIELD_COLORS,#762a83,#c2a5cf,#1b7837,#5aae61,#d9f0d3\n";
     print COUNTS "FIELD_LABELS," . join(",", @ITOL_DATA_TYPES_TO_PRINT) . "\n";
 
     print COUNTS "LEGEND_TITLE,Data sources\n";
     print COUNTS "LEGEND_SHAPES,1,1,1,1,1\n";
-    print COUNTS "LEGEND_COLORS,#1f78b4,#a6cee3,#006d2c,#74c476,#e5f5e0\n";
+    print COUNTS "LEGEND_COLORS,#762a83,#c2a5cf,#1b7837,#5aae61,#d9f0d3\n";
     print COUNTS "LEGEND_LABELS," . join(",", @ITOL_DATA_TYPES_TO_PRINT) . "\n";
 
     print COUNTS "DATASET_SCALE,0-0-#bdbdbd-1-1-2,5-5-#bdbdbd-1-1-2,10-10-#bdbdbd-1-1-2,15-15-#bdbdbd-1-1-2,20-20-#bdbdbd-1-1-2,25-25-#bdbdbd-1-1-2\n";
