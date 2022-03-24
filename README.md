@@ -34,3 +34,7 @@ Output from iTOL (with cosmetic changes for display purposes):
 - **EukProt_figure_1.[version].svg** : final tree in Figure 1 (Inkscape SVG format).
 - **EukProt_figure_1.[version].pdf** : final tree in Figure 1 (PDF format).
 - **EukProt_figure_1.[version].png** : final tree in Figure 1 (PNG format, 100 dpi).
+
+## Annotations
+
+Annotations, which can be updated as new analyses are performed (i.e., both accompanying and in between full database releases). File names indicate analysis type (and software/database version, if applicable).
