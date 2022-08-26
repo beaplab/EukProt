@@ -1,6 +1,6 @@
 # EukProt v3
 
-[![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](http://www.gnu.org/licenses/gpl.html)
+[![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](http://www.gnu.org/licenses/gpl.html) [![DOI](https://zenodo.org/badge/284257207.svg)](https://zenodo.org/badge/latestdoi/284257207)
 
 ![Tree representing relationships among data sets and counts by type](/iTOL/v03/EukProt_figure_1.v03.2021_11_22.png)
 
