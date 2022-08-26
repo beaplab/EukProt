@@ -22,18 +22,18 @@ Note: these scripts depend on the Perl modules (filenames ending in .pm), which 
 ## Tree and tree-related files (input to and output from [iTOL](https://itol.embl.de))
 
 Input to taxonomy_to_tree_iTOL.pl:
-- **taxonomic_lineages_by_data_set.[version].txt** : for each data set in EukProt, its data source type (genome, single-cell genome, transcriptome, EST or single-cell transcriptome) and its taxonomic lineage to be used for display in the iTOL tree (the lowest taxonomic level listed will become a leaf in the tree). Note that some taxonomic entities that are not in UniEuk have been added to the tree for display purposes.
+- **taxonomic_lineages_by_data_set.[version].txt** : for each data set in EukProt, its data source type (genome, single-cell genome, transcriptome, EST or single-cell transcriptome) and its taxonomic lineage to be used for display in the iTOL Figure 1 tree (the lowest taxonomic level listed will become a leaf in the tree). Note that some taxonomic entities that are not in UniEuk have been added to the tree for display purposes.
 
 Input to iTOL:
-- **input_tree.[version].tree** : input tree to iTOL, in Newick format, with internal nodes labeled.
-- **data_set_counts_by_type.[version].txt** : data file for iTOL, with counts of data sets by source type, for each leaf in the tree.
+- **input_tree.[figure].[version].tree** : input trees to iTOL, in Newick format, with internal nodes labeled.
+- **clade_labels.[figure].[version].txt** : data files for iTOL, with labels to be used for different clades in the tree.
 - **clade_colors.[version].txt** : data file for iTOL, with colors to be used for different clades in the tree.
-- **clade_labels.[version].txt** : data file for iTOL, with labels to be used for different clades in the tree.
+- **data_set_counts_by_type.[version].txt** : data file for iTOL, with counts of data sets by source type, for each leaf in the tree in Figure 1.
 
 Output from iTOL (with cosmetic changes for display purposes):
-- **EukProt_figure_1.[version].svg** : final tree in Figure 1 (Inkscape SVG format).
-- **EukProt_figure_1.[version].pdf** : final tree in Figure 1 (PDF format).
-- **EukProt_figure_1.[version].png** : final tree in Figure 1 (PNG format, 100 dpi).
+- **EukProt_[figure].[version].svg** : final tree in Figures 1 and 3 (Inkscape SVG format).
+- **EukProt_[figure].[version].pdf** : final tree in Figures 1 and 3 (PDF format).
+- **EukProt_[figure].[version].png** : final tree in Figures 1 and 3 (PNG format, 100 dpi).
 
 ## Annotations
 
