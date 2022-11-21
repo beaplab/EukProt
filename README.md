@@ -10,7 +10,7 @@ Database (FigShare) DOI: [10.6084/m9.figshare.12417881.v3](https://doi.org/10.60
 
 Description (Peer Community Journal) DOI: [10.24072/pcjournal.173](https://doi.org/10.24072/pcjournal.173)
 
-BLAST database, interactive plots of BUSCO scores and 'The Comparative Set' (TCS): A selected subset of EukProt for comparative genomics investigations are available at: [evocellbio, the Wideman Lab](http://evocellbio.com/eukprot/)
+BLAST database, interactive plots of BUSCO scores and 'The Comparative Set' (TCS): A selected subset of EukProt for comparative genomics investigations are available at: [evocellbio, the Wideman Lab](http://evocellbio.com/eukprot/). Protein sequence FASTA files of the TCS are available at DOI: [10.6084/m9.figshare.21586065](https://doi.org/10.6084/m9.figshare.21586065)
 
 ## Perl scripts
 
